@@ -1,0 +1,28 @@
+
+.container h2 {
+  text-align: center;
+  margin: 30px auto;
+}
+
+.list {
+  display: flex;
+  max-width: 450px;
+  text-align: center;
+  margin: auto;
+}
+
+.submit-form {
+  max-width: 350px;
+  margin: auto;
+}
+
+.edit-form {
+  max-width: 350px;
+  margin: auto;
+}
+
+.navbar h3 {
+  font-family: 'Garamond';
+  font-size: xx-large;
+}
+
