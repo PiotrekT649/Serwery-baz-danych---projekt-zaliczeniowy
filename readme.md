@@ -4,7 +4,7 @@ Projekt zaliczeniowy napisany przy użyciu frameworka ReactJS oraz bazy danych F
 ## instalacja
 Do uruchomienia aplikacji wymagana jest instalacja dodatkowych modułów. W celu ich pobrania w konsoli należy wpisać i wykonać:
 ```
-npm install firebase react-dom react-router-dom bootstrap
+npm install
 ```
 W wyniku czego powstanie folder node_modules zawierający wszystkie wymagane pakiety
 
